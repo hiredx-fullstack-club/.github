@@ -1,4 +1,4 @@
-# Welcome to HiredX Full-stack Club! 🚀
+#  🚀 Welcome to HiredX Full-stack Club!
 
 We are a vibrant and supportive community dedicated to mastering the art and science of full-stack development. Whether you're deeply immersed in frontend finesse or powering through backend engineering, this is your hub to learn, share, and grow.
 
