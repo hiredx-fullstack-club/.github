@@ -17,10 +17,10 @@ This GitHub organization is the central repository for everything related to our
 
 ## Join Our Community!
 
-Beyond GitHub, connect with us on:
+Connect with us and other developers on WhatsApp:
 
-* **WhatsApp**: [Insert WhatsApp Group Link Here] (e.g., `https://chat.whatsapp.com/YourInviteLink`) - *Crucial for active daily discussions!*
-* [Link to your website/blog/social media if you have one]
+* **Vancouver Tech Group (Parent Group for Networking with developers/recruiters):** **[Join Here](https://chat.whatsapp.com/GXXSWJBWdnkFElMxwUldIh)** 🗣️
+* **Full-stack Club (Study Group):** **[Join Here](https://chat.whatsapp.com/HGVkMnIwiYw2VeF5PAAjqR)** 📱
 
 Let's stack up our skills and build something incredible together! 💡🛠️🌐
 
