@@ -1,6 +1,6 @@
 # Welcome to HiredX Full-stack Club! 🚀
 
-![HiredX Full-stack Club Logo](https://raw.githubusercontent.com/HiredX-Fullstack-Club/.github/main/hiredx-fullstack-logo.png) We are a vibrant and supportive community dedicated to mastering the art and science of full-stack development. Whether you're deeply immersed in frontend finesse or powering through backend engineering, this is your hub to learn, share, and grow.
+We are a vibrant and supportive community dedicated to mastering the art and science of full-stack development. Whether you're deeply immersed in frontend finesse or powering through backend engineering, this is your hub to learn, share, and grow.
 
 ## Our Mission
 
